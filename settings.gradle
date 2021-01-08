@@ -1,0 +1,2 @@
+rootProject.name='Routine It'
+include ':app'
