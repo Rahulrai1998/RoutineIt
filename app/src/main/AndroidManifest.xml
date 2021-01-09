@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/routine_app_icon_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".LoginModules"></activity>
+        <activity android:name=".PasswordOtp"></activity>
+        <activity android:name=".ForgotPassword" />
+        <activity android:name=".SignupTeacher" />
+        <activity android:name=".SignupModules" />
+        <activity android:name=".TeacherLogin" />
+        <activity android:name=".LoginModules" />
         <activity
             android:name=".WelcomePage"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"> <!-- This will hide the action bar or status bar -->

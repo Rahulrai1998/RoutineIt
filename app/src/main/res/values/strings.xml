@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">RoutineIt</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="mobil_10_digits">Mobil(10 digits)</string>
+    <string name="password_min_4_characters">Password(Min.4 characters)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="submit">Submit</string>
+    <string name="confirm_pass">Confirm Password</string>
+    <string name="new_password_min_4_characters">New Password(Min.4 characters)</string>
+    <string name="otp_4_characters">OTP(4 characters)</string>
+    <string name="next">Next</string>
 </resources>
