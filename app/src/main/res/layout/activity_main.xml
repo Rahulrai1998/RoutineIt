@@ -12,6 +12,6 @@
         android:text="Welcome to us"
         android:textSize="40sp"
         android:layout_centerInParent="true"
-        android:textColor = "#800000"/>
+        android:textColor = "@color/favColor"/>
 
 </RelativeLayout>

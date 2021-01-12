@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".WelcomePage"
-    android:background="#ff914d">
+    android:background="@color/favColor">
 
     <ImageView
         android:layout_width="match_parent"
@@ -17,7 +17,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:text="1.0"
-        android:textColor="#000000"
+        android:textColor="#ffffff"
         android:textSize="15sp"
         />
 
